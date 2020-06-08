@@ -1,1 +1,1 @@
-wc * | sort -n
+wc * | sort -n > output.txt
